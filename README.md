@@ -1,7 +1,7 @@
 # Minecraft Cheat Checker (MCCC)
+ 
+MineCraftCheatChecker — лёгкое в использовании приложение для проверки клиента Minecraft на наличие читов и подозрительных модификаций. Программа помогает игрокам и администраторам серверов поддерживать честную игру.
 
-![MCCC Banner](https://via.placeholder.com/800x200?text=Minecraft+Cheat+Checker)  
-Лёгкое приложение для проверки клиента Minecraft на читы и модификации.
 
 ---
 
