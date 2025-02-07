@@ -26,7 +26,7 @@ MineCraftCheatChecker — лёгкое в использовании прило�
 Установите Python и зависимости:  
 ```cmd
 winget install Python.Python  
-pip install getpass requests tk os subprocess random threading
+pip install getpass requests tkinter os subprocess random threading time 
 ```
 Запустите MCCC:
 ```cmd
